@@ -1,0 +1,14 @@
+Goblins! 
+
+--------------------------------------------------------------------------------
+
+Here is my five Goblin scripts. They are as follows.
+Goblin- Your basic goblin. Weaponless, with leather armor.
+Goblin Raider- Just a common goblin with a Weapon.
+Goblin Elite- An elite Goblin troop in Ringmail Armor.
+Goblin Shamen- A robed goblin with a gnarled staff, uses spells.
+Goblin Chieften- The leader of a group of Goblins, one of the strongest, in Platemail Armor, armed with a Halberd.
+
+Also, I re-did the Oppositions Group, which can be found in Scripts\Engines\AI\Creatures. 
+It must be replaced. 
+The goblins themselves go in your Customs folder.
