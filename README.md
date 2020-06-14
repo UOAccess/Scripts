@@ -1,11 +1,9 @@
 <p align="center">
 <a href="http://UOAccess.com"><img src="https://www.uoguide.com/images/d/dc/Uologo.png" title="UOAccess" alt="UOAccess"></a>
-
-
-
-
-Ultima Online Freeserver Scripts
-====== 
+<p align="center">
+    <b><h1>Ultima Online Freeserver Scripts</h1></b>
+</p>
+---
 
 | This is a collection of scripts I have gatherd and wanted to get off the computer. |
 | --- |
@@ -19,7 +17,7 @@ if (Scripts != Have && Want == True)
 else
     OpenBrowser(www.ServUO.com);
 ```
-</p>
+---
 
 ## Installation
 
@@ -30,6 +28,5 @@ else
 ---
 ## Links
 [![ServUO](https://www.servuo.com/styles/uix/images/logo.png?v=3&s=100)](http://ServUO.com)
----
 
 
