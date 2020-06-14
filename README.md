@@ -1,9 +1,8 @@
 <p align="center">
-<a href="http://UOAccess.com"><img src="https://www.uoguide.com/images/d/dc/Uologo.png" title="UOAccess" alt="UOAccess"></a>
+<a href="http://UOAccess.com"><img src="https://www.uoguide.com/images/d/dc/Uologo.png" title="UOAccess" alt="UOAccess"></a></p>
 <p align="center">
-    <b><h1>Ultima Online Freeserver Scripts</h1></b>
+    <h1>Ultima Online Freeserver Scripts</h1>
 </p>
----
 
 | This is a collection of scripts I have gatherd and wanted to get off the computer. |
 | --- |
