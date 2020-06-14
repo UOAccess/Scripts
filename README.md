@@ -6,7 +6,6 @@
 > I have put them all here so I can keep them without having them taking up space.
 
 ---
-
 ```c
 if (Scripts != Have && Want == True)
     {
@@ -15,14 +14,11 @@ if (Scripts != Have && Want == True)
 else
     OpenBrowser(www.ServUO.com);
 ```
----
 
 ## Installation
 - Most of these should not need edits to get them Compiled and working
 - I always put Custom scripts not part of the Servers original files in `Server/Scripts/Custom`
 
----
-![logo]
 
 ## Links
 [![ServUO](https://www.servuo.com/styles/uix/images/logo.png?v=3&s=100)](http://ServUO.com)
